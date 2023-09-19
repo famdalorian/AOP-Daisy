@@ -1,11 +1,14 @@
 /* Base */
+.site-logo-img{
+  height: 10vh;
+}
 body {
   line-height: 1.7;
   color: #000;
   font-weight: 400;
   font-size: 1rem;
   background: #fff;
-  background: #F5EEDC; }
+  background: #f3f0e9; }
 
 html {
   background: #F5EEDC; }
